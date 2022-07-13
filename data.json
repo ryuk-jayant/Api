@@ -1,0 +1,61 @@
+{   "quantity":4,
+    "student1" : {
+        "Name":"Jayant",
+        "Marks":200,
+        "projects":{
+            "1":"demon hunter",
+            "2":"naruto",
+            "3":"DEATH NOTE"
+        }
+    },
+    "student2" : {
+        "Name":"Ansh",
+        "Marks":300,
+        "projects":{
+            "1":"Bleach",
+            "2":"High school DXD",
+            "3":"Baki hanma"
+        }
+    },
+    "student3" : {
+        "Name":"Ashwini",
+        "Marks":4900,
+        "projects":{
+            "1":"Demon hunter",
+            "2":"Tomodachi games",
+            "3":"The boys"
+        }
+    },
+    "student4" : {
+        "Name":"MAnga is better",
+        "Marks":40320,
+        "projects":{
+            "1":"Monkey D luffy ",
+            "2":"Edge of the Sword",
+            "3":"God of War"
+        }
+    },
+    "farmer1" : {
+        "Name":"sok_a",
+        "expense":4002,
+        "Age":"45",
+        "connection":"yes"
+    },
+    "farmer2" : {
+        "Name":"sok_a",
+        "expense":33020,
+        "Age":"45",
+        "connection":"yes"
+    }, "farmer3" : {
+        "Name":"sok_a",
+        "expense":6969,
+        "Age":"45",
+        "connection":"yes"
+    }, "farmer4" : {
+        "Name":"sok_a",
+        "expense":34202,
+        "Age":"45",
+        "connection":"yes"
+    }
+}
+ 
