@@ -1,2 +1,4 @@
-# Api_in_c-
-it is an api which reads data from a file and then displays it on it's endpoint
+# Api
+it is an api(built in c++)
+
+which reads data from a file and then displays it on it's endpoint.
